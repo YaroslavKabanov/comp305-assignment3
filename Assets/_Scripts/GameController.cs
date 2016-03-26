@@ -4,9 +4,9 @@
 // * Last Modified by : Yaroslav Kabanov      *
 // * Last Date Modified : March 25th, 2016    *
 // * Program Description : 3D Maze-Runner GAme*
-// * Version: 1.0                             *
+// * Version: 0.7                             *
 // ********************************************    
-// Git Rero: 
+// Git Rero: https://github.com/YaroslavKabanov/comp305-assignment3.git
 
 using UnityEngine;
 using System.Collections;
